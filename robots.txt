@@ -1,0 +1,2 @@
+User-agent: *Allow:/
+Sitemap: https://devmeme.netlify.app/sitemap.xml
